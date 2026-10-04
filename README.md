@@ -22,4 +22,4 @@ Dart • Flutter • Python • C++ • Git • GitHub
 
 ## 📌 Projects
 
-Coming soon...
+Currently building flutter projects
